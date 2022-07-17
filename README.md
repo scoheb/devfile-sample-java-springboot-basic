@@ -7,3 +7,4 @@ A basic sample application using Java Spring Boot with devfile
 # test4
 # test5
 # test6
+# test7

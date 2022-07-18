@@ -15,3 +15,4 @@ A basic sample application using Java Spring Boot with devfile
 # test11
 # test12
 # test14
+# test15

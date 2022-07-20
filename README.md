@@ -23,3 +23,4 @@ A basic sample application using Java Spring Boot with devfile
 # test20
 # Signed-off-by: shebert@gmail.com
 # test21
+# test22

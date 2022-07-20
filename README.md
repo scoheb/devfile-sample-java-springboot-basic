@@ -26,3 +26,4 @@ A basic sample application using Java Spring Boot with devfile
 # test22
 # test23
 # test24
+# test25
